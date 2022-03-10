@@ -6,3 +6,7 @@ classes/util_module/module-info.class
 classes/util_module/utils/Problem.class
 src/main_module/module-info.java
 src/main_module/main_package/TestLinearSearch.java
+classes/algo_module/algos/QuickSortAlgo.class
+classes/main_module/main_package/TestQuickSort.class
+classes/util_module/utils/Utils.class
+src/main_module/main_package/TestQuickSort.java
