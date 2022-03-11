@@ -10,3 +10,7 @@ classes/algo_module/algos/QuickSortAlgo.class
 classes/main_module/main_package/TestQuickSort.class
 classes/util_module/utils/Utils.class
 src/main_module/main_package/TestQuickSort.java
+classes/algo_module/algos/MergeSortAlgo.class
+classes/main_module/main_package/TestMergeSort.class
+src/main_module/main_package/TestMergeSort.java
+src/algo_module/algos/MergeSortAlgo.java
